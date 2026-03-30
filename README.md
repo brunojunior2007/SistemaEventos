@@ -28,4 +28,4 @@ Os detalhes técnicos e diagramas podem ser encontrados na pasta `/docs`:
 - **API de Data:** `java.time` (LocalDateTime)
 
 ---
-*Projeto desenvolvido para fins acadêmicos - 1º Semestre de Análise e Desenvolvimento de Sistemas.*
+*Projeto desenvolvido para fins acadêmicos - 1º Semestre do Curso Superior de Tecnologia em Inteligência Artificial.*
